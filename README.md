@@ -1,4 +1,4 @@
-Below is a **short, resume-friendly README.md**, including **attack simulation steps**, suitable for GitHub and concise enough for recruiters.
+
 
 ---
 
@@ -85,4 +85,3 @@ Cyber Security | Network Defense
 
 ---
 
-If you want, I can also shorten this further to **3–4 lines for resume bullets** or add a **one-line GitHub description**.
